@@ -1,0 +1,53 @@
+body {
+  background-color: #f9f7f7;
+  background-image: url("/img/fundo.svg");
+}
+.card {
+  background-color: #3c4a57;
+}
+
+.card-header {
+  background-color: #304050;
+}
+.card-body {
+  background-color: #3c4a57;
+}
+
+h1,
+h4 {
+  color: #3c4a57;
+}
+
+#formulario-pergunta {
+  margin-top: 5vh;
+}
+
+.navbar-dark {
+  background-color: #304050;
+}
+
+.form-control {
+  background-color: #f0f4f7;
+}
+label,
+textarea,
+h3 {
+  color: #f0f4f7;
+}
+
+.btn-warning {
+  color: #3c4a57;
+  font-size: 1rem;
+  font-weight: 500;
+  background: #ffd369;
+}
+
+.resposta {
+  background-color: #dbe0e4;
+}
+.resposta p {
+  font-size: 1.1rem;
+}
+.mg {
+  margin-bottom: 10px;
+}
